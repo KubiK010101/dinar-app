@@ -1,0 +1,13 @@
+export { default as AgencyAgreement2 } from './AgencyAgreement2/AgencyAgreement2';
+export { default as CreatePassword } from './CreatePassword/CreatePassword';
+export { default as ForgotPassword } from './ForgotPassword/ForgotPassword';
+export { default as KYCSuccessful } from './KYCSuccessful/KYCSuccessful';
+export { default as Login } from './Login/Login';
+export { default as LoginOtp } from './LoginOtp/LoginOtp';
+export { default as Register } from './Register/Register';
+export { default as RegisterCheckIdentity } from './RegisterCheckIdentity/RegisterCheckIdentity';
+export { default as RegisterKycStep1 } from './RegisterKycStep1/RegisterKycStep1';
+export { default as RegisterKycStep2 } from './RegisterKycStep2/RegisterKycStep2';
+export { default as RegisterSuccessful } from './RegisterSuccessful/RegisterSuccessful';
+export { default as TermsAndConditions } from './TermsAndConditions/TermsAndConditions';
+export { default as VerificationCode } from './VerificationCode/VerificationCode';

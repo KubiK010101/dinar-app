@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Janna-LT-Bold.ttf",
+      "sha1": "263ca5c8cc577834c1211b306875894dd22d8c45"
+    },
+    {
+      "path": "src/assets/fonts/Janna-LT-Regular.ttf",
+      "sha1": "4c492e3f7ac90dc89231ca18b51318acb2dfaf79"
+    },
+    {
+      "path": "src/assets/fonts/JannaLT-Regular.ttf",
+      "sha1": "4eceadd383c4e9587915f3eac9ed87bc020e0fe6"
+    },
+    {
+      "path": "src/assets/fonts/MarkaziText-Bold.ttf",
+      "sha1": "f3650783786c9cc96308050ea7251ac917a1a06b"
+    },
+    {
+      "path": "src/assets/fonts/MarkaziText-Medium.ttf",
+      "sha1": "febd9a99c84dc7433e7e89102da03502ce14c727"
+    },
+    {
+      "path": "src/assets/fonts/MarkaziText-Regular.ttf",
+      "sha1": "338e891924b874dfab67b91da191740393882542"
+    },
+    {
+      "path": "src/assets/fonts/MarkaziText-SemiBold.ttf",
+      "sha1": "6bea23ec52b3c5e909f7ea4b64b42a64786194f6"
+    }
+  ]
+}

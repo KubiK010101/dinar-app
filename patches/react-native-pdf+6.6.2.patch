@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native-pdf/index.js b/node_modules/react-native-pdf/index.js
+index 95520c1..7dab817 100644
+--- a/node_modules/react-native-pdf/index.js
++++ b/node_modules/react-native-pdf/index.js
+@@ -18,7 +18,7 @@ import {
+     Text
+ } from 'react-native';
+ 
+-import ReactNativeBlobUtil from 'react-native-blob-util'
++import ReactNativeBlobUtil from 'rn-fetch-blob'
+ import {ViewPropTypes} from 'deprecated-react-native-prop-types';
+ const SHA1 = require('crypto-js/sha1');
+ import PdfView from './PdfView';

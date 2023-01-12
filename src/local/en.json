@@ -1,0 +1,1023 @@
+{
+  "next": "next",
+  "register": "register",
+  "skip": "skip",
+  "boards": {
+    "firstTitle": "Fixed Periodic Distributions",
+    "firstDetails": "Invest with ease in investment opportunities that give\n stable periodic distributions",
+    "secondTitle": "JD App licensed by\n Capital Market Authority",
+    "secondDetails": "All investment opportunities in the Dinar application are subject to the supervision of the\nCMA",
+    "thirdTitle": "An independent Shariah committee supervises\nall Dinar investment products",
+    "thirdDetails": "All investment opportunities are subject to the supervision of the Shari'a Committee\n to ensure their compatibility with Islamic Shari'a."
+  },
+  "auctionCompletedModal": {
+    "title": "Bid number 4738743 has expired",
+    "content": "Bid No. 843843 48384 has been closed.\nTo follow the results, please click on the button\nbelow.",
+    "button": "Bidding results"
+  },
+  "registration": {
+    "welcomeMessage": "Welcome, \nregister as a new user",
+    "email": "Email",
+    "mobileNumber": "Mobile number",
+    "password": "Password",
+    "agree": " I agree to",
+    "termsAndConditions": "Terms And Conditions",
+    "register": "Register",
+    "haveAnAccount": "Have i an account in dinars?",
+    "signIn": "Sign In"
+  },
+  "login": {
+    "welcomeMessage": "Welcome,\nlogin now",
+    "email": "E-mail",
+    "password": "Password",
+    "forgotPassword": "Forgot your password?",
+    "signIn": "Sign in",
+    "haveAnAccount": "Have i an account in dinars?",
+    "register": "Register"
+  },
+  "forgotPassword": {
+    "resetLink": "The password reset link has been sent to an email",
+    "resetPassword": "Reset password",
+    "enterEmail": "Enter your email to send you a link to reset your password",
+    "email": "Email",
+    "send": "Send"
+  },
+  "termsAndConditions": {
+    "title": "The terms and conditions are the contract between the user of the platform and Dinar Investments. Once he uses the platform, he has agreed to all the terms and conditions contained in this list. The user must read, understand, comprehend and review this agreement from time to time. Dinar Investments has the right to amend To change the terms and conditions at any time it deems appropriate, and the user is deemed to have agreed to such changes.",
+    "agree": "I agree to the terms and conditions",
+    "firstPart": {
+      "title": "definitions",
+      "list": {
+        "first": {
+          "title": "\u2022 dinars for investment :",
+          "value": "Dinar Investment Company, authorized by the Capital Market Authority, with Commercial Registration No. 1010742917, headquartered in Riyadh."
+        },
+        "second": {
+          "title": "\u2022 user :",
+          "value": "the natural or legal person authorized to benefit from the services of the platform."
+        },
+        "third": {
+          "title": "\u2022 platform :",
+          "value": "An electronic platform owned by Dinar Investment Company, which provides investment opportunities in debt instruments for small and medium enterprises."
+        },
+        "fourth": {
+          "title": "\u2022 wallet :",
+          "value": "An electronic financial account created for the purpose of investing in the platform."
+        },
+        "fifth": {
+          "title": "\u2022 Related parties :",
+          "value": "They are the company's managers, employees, representatives, agents, and their relatives."
+        }
+      }
+    },
+    "secondPart": {
+      "title": "Dinar platform",
+      "list": {
+        "first": {
+          "title": "\u2022 ",
+          "value": "It is a platform that connects investors with applicants for financing by issuing debt instruments and investing in them. JD Investments is not considered a party to the investment process, but rather represents its role as an intermediary between the investor and the applicant. Also, JD does not guarantee any information provided by the applicant and is not a guarantor of it. The subscriptions offered on the platform are not considered as recommendations to invest in."
+        }
+      }
+    },
+    "thirdPart": {
+      "title": "registration",
+      "list": {
+        "first": {
+          "title": "\u2022",
+          "value": "Registration on the platform is limited to those over the age of 18, and the user must enter his information in a correct and complete manner and update it if necessary. Dinar has the right to verify the user's information as it deems appropriate. The user must correct his information in If the information is urgently wrong, we have the right to terminate the user agreement at any time without prior notice from it."
+        }
+      }
+    },
+    "fourthPart": {
+      "title": "Limitation of Liability",
+      "list": {
+        "first": {
+          "title": "\u2022",
+          "value": "Dinar Investments shall not bear any losses or damages resulting from the use of the platform or any other damages incurred by the user unless such damages are caused by negligence or intent to mislead and harm the user. In all cases, the liability shall not exceed Dinar Investment Company, its employees, and agents."
+        }
+      }
+    },
+    "fifthPart": {
+      "title": "Uses",
+      "list": {
+        "first": {
+          "title": "\u2022",
+          "value": "The user has the right to use the platform for the purposes for which it was intended, and to download any content provided by the platform in a manner that does not result in a violation of the laws and regulations in force in the Kingdom of Saudi Arabia."
+        },
+        "second": {
+          "title": "\u2022",
+          "value": "The user is prohibited from modifying, publishing or selling the materials and contents provided by the Dinar platform, and downloading these materials does not mean the transfer of ownership to the user. It is prohibited to use any information obtained from the platform for any reasons other than those authorized in the terms and provisions."
+        }
+      }
+    },
+    "sixthPart": {
+      "title": "risk",
+      "list": {
+        "first": {
+          "title": "\u2022",
+          "value": " Dinar Investments confirms that the subscriptions and investment opportunities offered in its platform are high-risk investments, and the user must review his financial ability before investing and be aware that the loss may lose his entire investment. The user must evaluate the available subscriptions through the information provided by the applicant for funding and taking Taking into consideration the reasons beyond the control of the applicant, for example, but not limited to (economic conditions and factors affecting the activity of the applicant), and JD disclaims responsibility for any losses resulting from false information provided by the applicant."
+        }
+      }
+    },
+    "seventhPart": {
+      "title": "Developments",
+      "list": {
+        "first": {
+          "title": "\u2022 ",
+          "value": "Dinar Investments has the right at any time it deems appropriate to cancel the service temporarily or permanently in order to develop the platform or the products offered therein, whether this action was previously announced by no."
+        }
+      }
+    },
+    "eighthPart": {
+      "title": "Privacy",
+      "list": {
+        "first": {
+          "title": "\u2022",
+          "value": "JD Investment is committed to maintaining the highest levels of confidentiality regarding users' data, and JD collects, processes and stores data as it deems in the interest of users. For investment purposes, JD may share data with third parties, as permitted by laws and regulations. Dinar is to provide the most stringent security measures to secure transactions and protect data from dissemination, loss or damage. Users must maintain the confidentiality of the information they obtain through the Dinar platform and inform them that any leakage of it may expose them to accountability."
+        }
+      }
+    },
+    "ninthPart": {
+      "title": "Users'",
+      "list": {
+        "first": {
+          "title": "\u2022",
+          "value": "JD reserves the right to review users' data and exclude or cancel accounts that do not comply with the terms and conditions contained in this list. The user must be eligible to register in the services provided by JD and his use of the platform is for his benefit and not on behalf of a natural person or The user undertakes to alert Dinar Investment of everything that suggests the occurrence of leakage, damage or damage to the information, and he must abide by the laws and regulations in force in the Kingdom of Saudi Arabia."
+        }
+      }
+    },
+    "tenthPart": {
+      "title": "redemption",
+      "list": {
+        "first": {
+          "title": "\u2022",
+          "value": "Individual investors can request a refund of the investment by communicating with the Dinar team via the following email: info@dinar.sa or calling the company's number, provided that the two conditions below are met:"
+        },
+        "second": {
+          "title": "\u2022",
+          "value": "No more than 80% of the subscription amount has been collected in the issue in which the investor invested."
+        },
+        "third": {
+          "title": "\u2022",
+          "value": "The investor should not have redeemed the investor more than one application during the past month. If the two conditions are met, the subscription application will be returned and the proceeds of the subscription will be returned to the investor's wallet after deducting the payment fees imposed by the payment partners on dinars (if the investor has paid the amount through Apple pay or mada)"
+        },
+        "fourth": {
+          "title": "\u2022",
+          "value": "Dinar Investment Company also reserves the right to change this policy without prior notice."
+        }
+      }
+    },
+    "eleventhPart": {
+      "title": "Stop policy",
+      "list": {
+        "first": {
+          "title": "\u2022",
+          "value": "Kind Investment reserves the right to suspend and cancel the user's account without prior notice in case of violating the terms and conditions, and Dinar does not bear any damages resulting from deleting the user's account. In the event of suspension of the account, the user is not entitled to keep any special content on the Dinar platform. "
+        }
+      }
+    },
+    "twelfthPart": {
+      "title": "wallet",
+      "list": {
+        "first": {
+          "title": "\u2022",
+          "value": "The Dinar platform portfolio provides the service of subscribing to the debt instruments offered on the platform, and the user acknowledges that the portfolio was found for the purposes of investing in the platform only. Dinar is always working on developing its products and accordingly, Dinar Investments has the right to stop the portfolio's services without prior notice to upgrade the services Dinar Investment has the right to seize the funds in the portfolio or partially restrict access to it in the event of existing disputes, or to protect Dinar Investment from any security or financial risks, or if the user has violated the terms and conditions."
+        }
+      }
+    },
+    "thirteenthPart": {
+      "title": "Prohibited actions",
+      "list": {
+        "first": {
+          "title": "\u2022",
+          "value": "Dinar Investments prevents the issuance of debt instruments for activities and projects that violate ethical principles, laws and regulations in force in the Kingdom of Saudi Arabia, and Dinar is authorized to prohibit any action in which there is a suspicious incident, such as, but not limited to, money laundering and terrorist financing operations, and Dinar will also take legal measures. Right to anyone who violates this provision."
+        }
+      }
+    },
+    "fourteenthPart": {
+      "title": "Users' Money",
+      "list": {
+        "first": {
+          "title": "\u2022",
+          "value": "The provisions for depositing and withdrawing funds and special restrictions are clarified in this clause, and the user's authorization to Dinar is addressed when conducting any transaction through the platform."
+        }
+      }
+    },
+    "fifteenthPart": {
+      "title": "fee",
+      "list": {
+        "first": {
+          "title": "\u2022",
+          "value": "The user must pay the fees listed under the 'fees' list to benefit from the platform's services, and JD reserves the right to estimate the fees to be paid and re-estimate the fees without prior notice and as it deems appropriate."
+        }
+      }
+    },
+    "sixteenthPart": {
+      "title": "compensation",
+      "list": {
+        "first": {
+          "title": "\u2022",
+          "value": "JD expressly disclaims liability for any claims or suits resulting from the user’s violation of the terms and conditions, or the user’s unauthorized use of the platform’s services. The user acknowledges indemnifying JD Investment, represented by its managers, employees, representatives and agents, for any damages arising from his violation of the terms and conditions."
+        }
+      }
+    },
+    "seventeenthPart": {
+      "title": "conflict of interest",
+      "list": {
+        "first": {
+          "title": "\u2022",
+          "value": "The concept of a conflict of interest shall be interpreted in the event of the actual or potential occurrence of any of the following cases:"
+        },
+        "second": {
+          "title": "\u2022 ",
+          "value": "When a private interest for any member of the Board of Directors of Dinar or its employees conflicts with the general interest of the company, which makes the related party take decisions without objectivity that may affect the interest of the company and the users."
+        },
+        "third": {
+          "title": "\u2022 ",
+          "value": "when the related party or one of his family members receive personal bonds for their position in the company."
+        }
+      }
+    },
+    "eighteenthPart": {
+      "title": "Implementation of the conflict of interest policy",
+      "list": {
+        "first": {
+          "title": "\u2022 ",
+          "value": "These policies do not violate what is in place within the applicable laws and regulations in the Kingdom of Saudi Arabia related to conflict of interest, but are considered an annex thereto."
+        }
+      }
+    },
+    "nineteenthPart": {
+      "title": "Policy Objectives",
+      "list": {
+        "first": {
+          "title": "\u2022 ",
+          "value": "JD Investment has established this policy to protect its interests and the interests of users from any thing that might make the related party prevent it from performing its responsibilities towards JD Investment or users, and to avoid that the personal interest of the related party affects the completion of its work in an impartial and objective manner."
+        }
+      }
+    },
+    "twentiethPart": {
+      "title": "Conflicts of Interest",
+      "list": {
+        "first": {
+          "title": "\u2022 ",
+          "value": "Own shares in any resource hosted by the platform."
+        },
+        "second": {
+          "title": "\u2022 ",
+          "value": "Paying amounts to any person who refers or introduces a new source in order to host it on the platform, or receive payments in any way, including obtaining shares in the source in exchange for referring or introducing him to the platform."
+        },
+        "third": {
+          "title": "\u2022 ",
+          "value": "Be a member of the board of directors of an issuer hosted by the platform or in any independent body that provides due diligence, evaluation or advice to the issuer."
+        },
+        "fourth": {
+          "title": "\u2022 ",
+          "value": "occupy a position in an issuer hosted by the platform or in any independent entity that provides due diligence, evaluation or advice services to the issuer."
+        },
+        "fifth": {
+          "title": "\u2022 ",
+          "value": "The Company or any of its employees owns a controlling interest in any independent entity that provides due diligence, evaluation or advice to the issuer."
+        }
+      }
+    },
+    "twentyFirstPart": {
+      "title": "handling conflict of interest",
+      "list": {
+        "first": {
+          "title": "\u2022 ",
+          "value": "In the event of a conflict of interest, it must be dealt with by the relevant company's disclosure of the conflict of interest case to Dinar Investment and to clarify the impact of this case on the rest of the transactions before offering the investment opportunity for subscription. And for Dinar Investment to disclose to the public through the company's website about the conflict of interest situation actual or potential and the consequences thereof."
+        }
+      }
+    },
+    "twentySecondPart": {
+      "title": "Responsibility of Related Parties",
+      "list": {
+        "first": {
+          "title": "\u2022 ",
+          "value": "The related parties must be fully aware of the conflict of interest policy and abide by the provisions it requires."
+        },
+        "second": {
+          "title": "\u2022 ",
+          "value": "Not to use the position to achieve private interests and to put the company's interest above his personal interests or any other interests."
+        },
+        "third": {
+          "title": "\u2022 ",
+          "value": "Avoid falling into a conflict of interest as much as possible, and adhere to the methods of addressing it contained in the terms and conditions."
+        },
+        "fourth": {
+          "title": "\u2022 ",
+          "value": "Maintaining the confidentiality of non-public information and not exploiting it to achieve any personal goals."
+        },
+        "fifth": {
+          "title": "\u2022 ",
+          "value": "Maintaining the company's property and assets."
+        }
+      }
+    },
+    "twentyThirdPart": {
+      "title": "Rules and Regulations'",
+      "list": {
+        "first": {
+          "title": "\u2022",
+          "value": "These terms and conditions are subject to the laws and regulations in force in the Kingdom of Saudi Arabia."
+        }
+      }
+    }
+  },
+  "validateRegisterPassword": {
+    "short": "The password is short (at least 8 characters)",
+    "uppercase": "Must be diversified by using capital letters.",
+    "lowercase": "Must be diversified by using lowercase letters.",
+    "digits": "Digits must be used.",
+    "symbols": "Symbols must be used.",
+    "sequential": "Returned or sequential letters and numbers should be avoided.",
+    "sameMail": "You should avoid using words from your e-mail.",
+    "common": "Common passwords should be avoided."
+  },
+  "validations": {
+    "email": {
+      "invalid": "The e-mail is invalid",
+      "required": "Please enter your email"
+    },
+    "password": {
+      "required": "Please enter the password",
+      "min": "The password must be at least 8 letters and numbers."
+    },
+    "phone": {
+      "length": "The mobile number must be 10 digits",
+      "required": "Please enter the mobile number"
+    },
+    "termsAndConditions": "User must agree to terms and conditions",
+    "address": {
+      "city": "The city field is required",
+      "district": "district field required",
+      "agree": "You must agree to the Investment Terms and Conditions Agreement"
+    },
+    "kyc": {
+      "academicDegree": "education level field required",
+      "annualIncome": "Annual Income Field Required",
+      "assetAmount": "Required Total Wealth field"
+    },
+    "bank": {
+      "iban": "The bank account must be 22 digits",
+      "enterIban": "Please enter your IBAN number",
+      "selectBank": "Please select the name of the bank",
+      "enterAccountName": "Please enter the account name",
+      "selectPayment": "Select payment method"
+    },
+    "identity": {
+      "birthDate": "Please select the date of birth",
+      "nin": {
+        "length": "The national number must be 10 digits",
+        "required": "Please type the national number"
+      }
+    },
+    "contactUs": {
+      "contactType": "Please select the type of communication",
+      "message": "Please type the content of the message"
+    },
+    "changePassword": {
+      "oldPassword": {
+        "required": "Please enter the current password",
+        "min": "Password must be at least 8 letters and numbers"
+      },
+      "newPassword": {
+        "required": "Please enter the new password",
+        "min": "The new password must be at least 8 letters and numbers."
+      },
+      "confirmPassword": {
+        "same": "Confirm the password does not match the new password",
+        "required": "Please confirm the password"
+      }
+    },
+    "withdraw": "Please enter the withdrawal amount"
+  },
+  "update": {
+    "maintenance": {
+      "true": "Application is down for maintenance!",
+      "false": "New update"
+    },
+    "newFeatures": "What's new in this version",
+    "sorryMessage": "We're sorry, the app is down for maintenance now, and we'll be back as soon as possible. Try to log in at a later time",
+    "updateNow": "Update now",
+    "messages": {
+      "first": "1- Design improvements",
+      "second": "2- Add new properties",
+      "third": "3- Shipping the wallet through Apple Pay."
+    }
+  },
+  "registerCheckIdentity": {
+    "title": "Identity verification",
+    "description": "In order to provide a secure service, the identity must be verified",
+    "nin": "National identification number",
+    "birthDate": "Date of birth",
+    "verify": "Verify identity"
+  },
+  "datePickerModal": {
+    "title": "Date of birth",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "verificationCode": {
+    "title": "Verification code",
+    "description": "Please enter the 4-digit verification code",
+    "verify": "Verify",
+    "loginOtp": "Enter the temporary password that was sent to your mobile number",
+    "verifyBankAccount": "Enter the temporary password sent to your mobile number",
+    "verifyEmail": "Enter the temporary password sent to your e-mail",
+    "verifyPhoneNumber": "Enter the temporary password that was sent to your mobile number",
+    "verifyIndividualUpgrade": "Enter the temporary password that was sent to your mobile number\nregistered in Absher",
+    "updatePhoneNumberVerifyAbsher": "Enter the temporary password that was sent to your mobile number registered in Absher"
+  },
+  "registerSuccessful": {
+    "message": "You have been successfully registered",
+    "textButton": "Complete customer information"
+  },
+  "registerKycStep1": {
+    "header": "Customer information",
+    "title": "First step of 2",
+    "description": "National address",
+    "city": "City",
+    "continue": "Continue",
+    "district": "The neighborhood",
+    "street": "Street name",
+    "agree": "I agree to",
+    "terms": "Investment Terms and Conditions Agreement"
+  },
+  "registerKycStep2": {
+    "questionsData": {
+      "question1": "Has the client ever worked in the financial sector during the past five years?",
+      "question2": "Does the client have any other practical experience related to the financial sector?",
+      "question3": "Is the client a member of a board of directors, an audit committee, or a senior executive in a listed company?",
+      "question4": "Is the client related to a member of a board of directors, an audit committee, or a senior executive in a listed company?",
+      "question5": "Is the client entrusted with high-level missions in the Kingdom or in a foreign country, or in senior management positions, or a job in an international organization?",
+      "question6": "Is the client related to blood or marriage ties up to the second degree, or is he considered close to a person charged with high missions in the Kingdom or in a foreign country, or high management positions or a job in an international organization?"
+    },
+    "KYCquestion": {
+      "yes": "Yes",
+      "no": "No"
+    },
+    "header": "Customer information",
+    "title": "Second step of 2",
+    "incomeData": "Income data",
+    "academicDegree": "What is your educational level?",
+    "annualIncome": "Annual Income",
+    "assetAmount": "Total wealth excluding residential property",
+    "save": "Save",
+    "academicDegreeData": {
+      "name1": "Bachelor",
+      "name2": "Masters",
+      "name3": "PhD",
+      "name4": "Other"
+    },
+    "annualIncomeData": {
+      "name1": "Less than 100 thousand",
+      "name2": "From 100 thousand to 500 thousand",
+      "name3": "More than 500 thousand"
+    },
+    "assetAmountData": {
+      "name1": "Less than a million",
+      "name2": "Million to 5 million",
+      "name3": "More than 5 million"
+    }
+  },
+  "KYCsuccessful": {
+    "message": "You have completed your file details successfully",
+    "textButton": "Home page"
+  },
+  "home": {
+    "ipo": "IPOs",
+    "filterOptions": {
+      "allChances": "All opportunities",
+      "available": "Opportunities available",
+      "coming": "Coming opportunities",
+      "closed": "Closed opportunities"
+    },
+    "opportunities": {
+      "remind": "Remind me of new opportunities",
+      "empty": "No opportunities available yet",
+      "error": "Error fetching opportunities"
+    },
+    "arrangingSubscriptions": "Arranging subscriptions",
+    "welcome": "Welcome",
+    "rial": "Real",
+    "walletBalance": "Wallet balance",
+    "walletEmptyBalance": "Start adding an amount to your wallet\n to be ready to invest",
+    "depositButton": "Deposit",
+    "withdrawButton": "Withdraw"
+  },
+  "depositWallet": {
+    "title": "Wallet Shipping",
+    "description": "You can top up your wallet by bank transfer to your dinar investment account at Arab National Bank",
+    "accountName": "Your investment account",
+    "message": "Note that it takes about\n 24 working hours to deposit into your investment account."
+  },
+  "withdraw": {
+    "title": "Withdrawal Operation",
+    "message": "You have not added your bank account yet. To add it, go to the bank account information on the More page",
+    "addButton": "Add Bank Account",
+    "amount": "Please enter the amount to be withdrawn to your bank account, it may take up to 24 business hours to deposit funds into your account",
+    "withdrawAmount": "The amount to be withdrawn",
+    "withdrawButton": "Withdraw Amount",
+    "request": "An amount has been withdrawn"
+  },
+  "addBankAccount": {
+    "title": "Bank account",
+    "bankName": "The name of the bank",
+    "iban": "The IBAN number",
+    "accountName": "Account name",
+    "addButton": "Add Bank Account",
+    "chooseBank": "Select the name of the bank"
+  },
+  "bankList": {
+    "name1": " Al-Rajhi Bank",
+    "name2": "National Bank of Saudi Arabia",
+    "name3": "SABB Bank",
+    "name4": " Alinma Bank",
+    "name5": "Riyad Bank",
+    "name6": "Arab National Bank",
+    "name7": "Banque Saudi Fransi",
+    "name8": "Bank Albilad",
+    "name9": "Bank Al-Jazira",
+    "name10": "The Saudi Investment Bank",
+    "name11": "Bank Muscat",
+    "name12": "Emirates NBD Bank",
+    "name13": "Gulf International Bank"
+  },
+  "upgradeToInvestor": {
+    "name1": "He must have carried out transactions in the stock markets with a total value of not less than forty million Saudi riyals and not less than ten transactions in each quarter during the past twelve months.",
+    "name2": "His net assets should not be less than five million Saudi riyals.",
+    "name3": "To work or have worked for at least three years in the financial sector and in a professional position related to investment in securities.",
+    "name4": "To hold a professional certificate specialized in the field of securities business and approved by an internationally recognized body.",
+    "name5": "To hold a general certificate for dealing in securities approved by the Capital Market Authority",
+    "name6": "His annual income is not less than six hundred thousand Saudi riyals in the past two years."
+  },
+  "auction": {
+    "allAuctions": "All auctions",
+    "filterBids": "Filter bids",
+    "biddingResults": "Bidding results",
+    "filterOptions": {
+      "everyone": "Everyone",
+      "auctionsAvailable": "Auctions available",
+      "myBids": "My bids",
+      "closedBids": "Closed bids"
+    },
+    "annualReturn": "Annual ",
+    "period": "Period",
+    "month": "month",
+    "versionSize": "Version size",
+    "rial": "Rial",
+    "profitMargin": "Profit margin",
+    "requiredQuantity": "Required quantity",
+    "acceptedQuantity": "Accepted quantity",
+    "biddingEndsYet": "Bidding ends yet",
+    "murabahaInstruments": "Murabaha instruments",
+    "biddingIsAvailable": "Bidding is available",
+    "version": "Version",
+    "listOfBids": {
+      "listOfBids": "List of bids",
+      "youHave": "You have",
+      "bids": "bids",
+      "coveredOnPrice": "Covered on price",
+      "I": "I",
+      "allBids": "All bids",
+      "myBids": "My bids",
+      "startBiddingNow": "Start bidding now",
+      "congratulations": "Congratulations, you are at the top of the bidder list for this opportunity",
+      "submitBid": "Sumbit Bid",
+      "newBid": "New bid"
+    },
+    "auctionDetails": {
+      "auctionDetails": "Bidding",
+      "bondBiddingOpportunity": "Murabaha bond bidding opportunity",
+      "viewAll": "View all",
+      "versionSize": "Version size",
+      "biddingPolicy": "Bidding policy",
+      "bidPrivacy": "The Saudi Bar Association (“the Authority”) provides information and data on its website, and by using this website the user agrees to be bound by the terms of use of the website and the terms of use of open data, noting that these terms and conditions may be subject to change or modification at any time without prior notice. The use of this website is subject to the relevant laws and regulations, and to the claims and disputes arising from the use of the Authority’s website.\n\nCopyright and intellectual property\nThe Authority reserves the copyright and intellectual property rights of the contents of the website, including the Authority's logo. The user of the site is not entitled to copy, print or download any of the contents of this site, except for personal use or for use within the entity or organization to which the user is affiliated, while preserving copyright and intellectual property in the same form and manner in the original from which it was copied, printed or downloaded (©Saudi Bar Association )\n\nAvailability and availability of the site\n\nThe Authority works to ensure that the website services are available to the user around the clock, and the Authority is not responsible for the unavailability of these services due to technical, technical or other reasons. The Authority may suspend access to this website temporarily or permanently without prior notice.\n\nAccuracy and guarantees\nThe Authority makes every effort to ensure that the information available on this website is as comprehensive and accurate as possible. The Authority shall not be liable for any loss or damage resulting from any use of this website or its content.\n\nLinking to other websites\nProviding links to other websites for the purpose of user convenience, without any responsibility on the part of the authority for the contents of those websites, and the authority does not endorse any services or products provided or referred to in those websites."
+    },
+    "investmentPeriodReturn": "Investment period",
+    "programAmount": "Program size",
+    "coverageRatio": "Coverage ratio",
+    "details": "Opportunity details",
+    "remind": "Remind me",
+    "invest": "Invest Now",
+    "days": "days"
+  },
+  "opportunityStatus": {
+    "available": "Available",
+    "upcoming": "Upcoming",
+    "closed": "Closed",
+    "fulfilled": "Acceptable",
+    "issued": "Issued",
+    "rejected": "Rejected",
+    "pending": "In progress",
+    "matured": "Off"
+  },
+  "input": {
+    "changeMail": "Change email"
+  },
+  "myProfile": {
+    "name": "Name",
+    "phone": "Mobile number",
+    "verifyPhone": "Verify Mobile Number",
+    "email": "E-mail",
+    "verifyEmail": "Verify Email",
+    "title": "Profile"
+  },
+  "tabButtonStack": {
+    "home": "Home",
+    "investment": "Subscriptions",
+    "auction": "Auction",
+    "transactions": "Operations",
+    "more": "More"
+  },
+  "myInvestment": {
+    "invoice": {
+      "value": "Total returns",
+      "title": "Real"
+    },
+    "chatLine": "Total Outstanding Investment",
+    "subscriptions": "My subscriptions",
+    "emptyList": {
+      "button": "Invest now",
+      "text": "You have no investments."
+    },
+    "arrangingSubscriptions": "Arranging subscriptions",
+    "filterOptions": {
+      "all": "All subscriptions",
+      "canceled": "Closed",
+      "pending": "In progress",
+      "issued": "Issued",
+      "fulfilled": "Accepted",
+      "rejected": "Rejected",
+      "matured": "Off"
+    },
+    "welcome": "Welcome",
+    "error": "Error fetching investments"
+  },
+  "transactions": {
+    "title": "My operations",
+    "button": "Invest now",
+    "text": "No operations yet",
+    "order": "Order of operations",
+    "error": "Error fetching transactions",
+    "data": {
+      "first": "From the earliest date",
+      "second": "From the most recent date",
+      "third": "From the highest price",
+      "fourth": "From the lowest price"
+    }
+  },
+  "moreScreen": {
+    "more": {
+      "KYC": "Customer Information Form",
+      "bankAccount": "Bank account information",
+      "upgradeToInvestor": "Upgrade Request for a Qualified Investor",
+      "agencyAgreement": "Investment Terms and Conditions Agreement"
+    },
+    "settings": "Settings",
+    "faq": "Frequently asked questions",
+    "supportCenter": "Support Center",
+    "shariaCommittee": "Sharia Committee",
+    "shariaCommitteeScreen": {
+      "members": "Members of the Sharia Committee",
+      "shariaCommitteeList": {
+        "name1": "Mr. Dr. Yousef bin Abdullah Al-Shabaili",
+        "title1": "Chairman of the Committee",
+        "details1": "He holds a master’s degree and a doctorate in comparative jurisprudence, and he is a university professor at the Higher Institute of Judiciary at Imam Muhammad bin Saud Islamic University.",
+        "name2": "Dr. Abdullah bin Issa Al-Aydi",
+        "title2": "member",
+        "details2": "Associate Professor of Jurisprudence at Jazan University, member of the Sharia Standards Committee of the Accounting and Auditing Organization for Islamic Financial Institutions (AAOIFI), and member of the Civil Transactions System team of the Judicial Legislation Committee in the Kingdom of Saudi Arabia. He has research works and published books in Islamic finance.",
+        "name3": "Dr. Khalid bin Mohammed al-Sayyari",
+        "title3": "member",
+        "details3": "He holds a master’s degree and a doctorate in comparative jurisprudence from the Higher Institute for the Judiciary in Riyadh, and he is a university professor at the Saudi Electronic University. He previously worked as a practitioner in a number of banks and financial companies in the field of Sharia and legal advice and the development of Islamic products. He is a member of a number of Sharia bodies and committees. for a number of Islamic financial institutions."
+      }
+    },
+    "aboutUs": "About a Dinar",
+    "logout": "Logout",
+    "title": "More",
+    "userInfo": "Customer Information",
+    "accountSettings": "Account Settings",
+    "helpCenter": "Help center"
+  },
+  "viewKYC": {
+    "yes": "yes",
+    "no": "no",
+    "header": "Update customer information form",
+    "addressTitle": "National Address",
+    "incomeDetailsTitle": "Income data",
+    "addressInfo": {
+      "title1": "City",
+      "title2": "Neighborhood",
+      "title3": "Street name"
+    },
+    "incomeDetails": {
+      "title1": "Educational level",
+      "title2": "The annual income",
+      "title3": "Total wealth excluding residential property"
+    },
+    "questions": {
+      "question1": "Has the client ever worked in the financial sector during the past five years?",
+      "question2": "Does the client have any other relevant work experience in the financial sector?",
+      "question3": "Is the client a member of a board of directors, an audit committee, or a senior executive of a listed company?",
+      "question4": "Is the client related to a member of the board of directors, an audit committee, or a senior executive of a listed company?",
+      "question5": "Is the client assigned to high-level missions in the Kingdom or in a foreign country, or in senior management positions, or a job in an international organization?",
+      "question6": "Is the client related to blood or marriage to the second degree, or is he considered close to a person charged with high missions in the Kingdom or in a foreign country, or in senior management positions or a job in an international organization?"
+    }
+  },
+  "upgradeToInvestor1": {
+    "title": "Application for Upgrade to a Qualified Investor",
+    "successAlert": "You are now a qualified investor.",
+    "submittedAlert": "The request was previously submitted and is currently being reviewed.",
+    "description": "The investor can request the upgrade to the level of a qualified investor after fulfilling one of the promotion conditions stipulated in the instructions of the Capital Market Authority. The level of the qualified investor allows the investor to invest in all investment opportunities without an annual limit or a limit for each investment opportunity.",
+    "limitsListTitle": "Investment limits for a non-qualified investor:",
+    "limit1": "20 thousand Saudi riyals for each investment opportunity",
+    "limit2": "100,000 riyals as outstanding investments during one year",
+    "button": "Continue"
+  },
+  "upgradeToInvestor2": {
+    "selectConditions": "Please select one of the following conditions",
+    "upload": "Please upload one of the previous documents",
+    "header": "A request for promotion to a qualified investor",
+    "description": "Upload the document proving your fulfillment of one of the following promotion conditions:",
+    "downloadButton": "Verification Attachment",
+    "requestButton": "Send request",
+    "initState": "Please upload one of the previous documents."
+  },
+  "settings": {
+    "notificationTitle": "Notifications",
+    "passwordTitle": "Password",
+    "languageTitle": "Language",
+    "title": "Settings",
+    "notifications": {
+      "firstSection": {
+        "title": "What are the means by which you would like to receive notifications",
+        "actions": {
+          "title1": "E-Mail Notices",
+          "title2": "Text message notifications"
+        }
+      },
+      "secondSection": {
+        "title": "Investments",
+        "actions": {
+          "title1": "New IPOs",
+          "title2": "Cash dividends"
+        }
+      },
+      "thirdSection": {
+        "title": "News and Promotions",
+        "actions": {
+          "title1": "Subscribe to the dinar newsletter",
+          "title2": "Receive notifications of new blog posts",
+          "title3": "Receive notifications of promotions",
+          "title4": "Receive notifications of new investment products",
+          "title5": "Receive notifications of Dinar news."
+        }
+      }
+    },
+    "password": {
+      "successAlert": "The password has been changed successfully.",
+      "title": "Change Password",
+      "current": "Current password",
+      "new": "New password",
+      "confirm": "Confirm the new password",
+      "submitButton": "Update password"
+    }
+  },
+  "contactUs": {
+    "successAlert": "Your message has been sent successfully and we will contact you as soon as possible, thank you.",
+    "title": "Support Center",
+    "contactType": "Contact Type",
+    "email": "E-mail",
+    "message": "Write your content here",
+    "sendButton": "Send",
+    "contactType1": "Suggested",
+    "contactType2": "Query",
+    "contactType3": " Problem",
+    "contactType4": "Balance inquiry",
+    "contactType5": "Investment Inquiry",
+    "contactType6": "Subscribe"
+  },
+  "aboutUs": {
+    "header": "About Dinar",
+    "subtitle": "Sukuk Financing Platform",
+    "title": "Our history",
+    "content": "We, in the Dinar platform, specialize in issuing debt instruments for companies, as we provide entrepreneurs with the opportunity to obtain flexible and rapid financing. We also enable individuals and enterprises to acquire a new investment asset that has been absent from the portfolios of local investors and participate in financing facilities with margins. rewarding."
+  },
+  "faq": {
+    "header": "Frequently asked questions",
+    "category1": {
+      "name": "All"
+    },
+    "category2": {
+      "name": "Investment in Sukuk",
+      "questions": {
+        "title1": "Who can invest in a dinar?",
+        "question1": "Anyone who is over 18 years old and has a national identity or residence, and has an account in a local bank, can invest on the Dinar platform.",
+        "title2": "What are the risks associated with investing in Sukuk?",
+        "question2": "Sukuk are considered high-risk investments, and the most dangerous thing that investors face is the failure of the entity requesting financing and its failure to pay its obligations. We, in turn, seek to reduce the size of these risks through a detailed study and careful analysis of the credit status of the applicant.",
+        "title3": "What are the steps for investing in the Dinar platform?",
+        "question3": "After creating the user's account and entering the necessary personal information, the investor can transfer funds from any local bank to his account on the platform and then invest in it.",
+        "title4": "How can you follow up on investments on the Dinar platform?",
+        "question4": "The investor can follow up on his investments when entering his account on the Dinar platform and choosing my investments.",
+        "title5": "What is the minimum investment?",
+        "question5": "The minimum investment is estimated at 1,000 Saudi riyals.",
+        "title6": "What is the nature of the profits and how are they obtained?",
+        "question6": "Sukuk have periodic returns (monthly, quarterly, semi-annual, annual) that the investor obtains on the date of the periodic distribution specified in the prospectus for the investment opportunity, and the investor recovers his capital on the maturity date.",
+        "title7": "How is the process of depositing funds on the Dinar platform?",
+        "question7": "Funds can be deposited by bank transfer directly to the investor's account via the platform.",
+        "title8": "After investing in the sukuk, does the investor own part of the company requesting the financing?",
+        "question8": "No, when investing in sukuk, the investor owns a common share in an asset with the applicant and not a share in the company. The relationship between the investor and the applicant for financing is a creditor relationship, not a partnership that ends when the applicant pays his last obligations on a previously specified date."
+      }
+    },
+    "category3": {
+      "name": "Sukuk Financing",
+      "questions": {
+        "title1": "What are the conditions that must be met by the applicant for funding?",
+        "question1": "That the legal entity is a company and not an institution, the existence of audited financial statements, and a valid Saudi commercial register.",
+        "title2": "What are the stages of the financing process and how long does it take?",
+        "question2": "1. Registration on the Dinar platform and uploading the required data and documents.\n2. The company's credit study and financing request.\n3. Sending the financing offer two days after the registration is completed.\n4. Subtracting the financing amount within 10 days from registration complete",
+        "title3": "What is the maximum duration of the financing?",
+        "question3": "10 years .",
+        "title4": "What is the maximum amount to be funded?",
+        "question4": "A funding applicant can finance his project up to 10 million."
+      }
+    },
+    "category4": {
+      "name": "Sukuk",
+      "questions": {
+        "title1": "What are Sukuk?",
+        "question1": "Sukuk are defined as Shariah-compliant securities that represent a common share in an asset, issued by government agencies and companies to develop development projects. The issuer of the sukuk is obligated to distribute cash profits periodically and return the capital at a specified time.",
+        "title2": "How to invest in Sukuk",
+        "question2": "In the past, investment in sukuk was limited to qualified investors, with a minimum investment of one million riyals. After the efforts of the Capital Market Authority to develop the financial and investment sector, the doors to investing in sukuk were opened for all by licensing debt instruments issuance platforms, and we at JD We offer investment opportunities in sukuk in a simple and easy way by providing investment opportunities on the platform and presenting them to investors after studying the project and the credit strength of the applicant.",
+        "title3": "What is the product offered by Dinar Investment?",
+        "question3": "Currently, the Dinar platform provides financing through Murabaha instruments, which are instruments of equal values ​​issued by the establishment with a special purpose for the purpose of buying a commodity and then selling it with a Murabaha known deferred and with a date known to the financing applicant, so that the financing applicant uses this commodity or the proceeds of its sale in development and development of his project.",
+        "title4": "What is a special purpose facility and what is its role?",
+        "question4": "It is an establishment established and licensed by the Capital Market Authority in accordance with the rules regulating establishments for special purposes to issue debt instruments or investment units, and it enjoys financial disclosure and an independent legal personality. Commission.",
+        "title5": "Compatibility with Islamic Sharia",
+        "question5": "The Dinar platform is committed to applying the provisions of Islamic Sharia, and providing financing services that allow the applicant for funding to benefit from financial technology and for investors to diversify their investments in accordance with Sharia standards and provisions."
+      }
+    }
+  },
+  "invest": {
+    "select": "Select the investment method",
+    "invoice": "Choose the number of instruments",
+    "perSuk": "riyals per instrument",
+    "totalCost": "total amount invested",
+    "useWallet": "Use Wallet Balance",
+    "remaining": "The balance remaining in the portfolio after investment",
+    "investNow": "Invest Now",
+    "payNow": "Pay now",
+    "message": "The portfolio balance does not cover the investment amount, you can complete the amount by paying these methods or pay the full amount via",
+    "remainingAmount": "Remaining amount"
+  },
+  "paymentCard": {
+    "title": "Payment Methods",
+    "cardNumber": "Card Number",
+    "expireDate": "Expiry date",
+    "cvc": "CVC Security Token",
+    "payNow": "Pay now"
+  },
+  "myInvestmentCard": {
+    "info": {
+      "month": "Month",
+      "period": "The period"
+    },
+    "totalInvestmentAmount": "Total Investment Amount",
+    "release": "Release distributions"
+  },
+  "transactionDetails": {
+    "info": {
+      "title1": "sector",
+      "value1": "Education",
+      "title2": "Purpose of Funding",
+      "value2": "Capital projects",
+      "title3": "Version Size",
+      "value3": "10,000,000",
+      "title4": "Due Date",
+      "value4": "2022/03/20",
+      "title5": "Delayed Release",
+      "value5": "12 months",
+      "title6": "Type of Sukuk",
+      "value6": "Murabaha Sukuk",
+      "title7": "Investment value",
+      "value7": "2000 riyals"
+    }
+  },
+  "investmentDetails": {
+    "info": {
+      "title1": "Sector",
+      "title2": "Version number",
+      "title3": "Purpose of Funding",
+      "title4": "Version Size",
+      "title5": "Number of sukuk",
+      "title6": "Due date",
+      "title7": "Delayed Release"
+    },
+    "files": {
+      "title1": "Summary of the offering document",
+      "title2": " Offering Document"
+    },
+    "scheduleInfo": {
+      "title1": "Payment Date",
+      "title2": " Face value",
+      "title3": "Distributions"
+    },
+    "detailsTitle1": " Offering Document Files",
+    "detailsTitle2": "Payment schedule and periodic distributions",
+    "batch": "Batch"
+  },
+  "investSuccessful": {
+    "track": "You can follow the status of the order from",
+    "mySubscription": "My subscriptions",
+    "opportunities": "Available and Upcoming Opportunities",
+    "home": "Home",
+    "completed": "Your investment request has been successfully completed"
+  },
+  "bankAccount": {
+    "title": "Bank account",
+    "message": "When you update your bank account again, the request will go to the director of the Dinar system for approval",
+    "updateBankAccount": "Update Bank Account"
+  },
+  "editEmail": {
+    "title": "Email Update",
+    "submit": "Update"
+  },
+  "editPhoneNumber": {
+    "title": "Mobile Number Update"
+  },
+  "editProfile": {
+    "message": "The mobile number and email cannot be changed together.",
+    "title": "Update Profile",
+    "verMessage": "When updating your mobile number or email, the verification process is required by sending a verification code, and the mobile number and email cannot be changed together.",
+    "updateButton": "Update changes"
+  },
+  "individualUpgradeSuccess": {
+    "success": "The request has been sent successfully and you will be responded to as soon as possible."
+  },
+  "individualUpgradeSuccessful": {
+    "success": "The request has been sent successfully and you will be responded to as soon as possible."
+  },
+  "shareInvestment": "Share investment",
+  "copied": "Has been copied",
+  "transactionItem": {
+    "deposited": "Deposit to wallet",
+    "withdraw": "Cash dividends | #84543"
+  },
+  "addNewPaymentCard": {
+    "title": "New payment method",
+    "add": "Add card"
+  },
+  "createPassword": {
+    "title": "New password",
+    "resetPass": "Reset password"
+  },
+  "langs": {
+    "english": "English language",
+    "arabic": "Arabic language",
+    "title": "Language"
+  },
+  "myInvestmentDetails": {
+    "info": {
+      "value1": "Program name",
+      "value2": "Program size",
+      "value3": "Version number",
+      "value4": "Version size",
+      "value5": "The total amount disbursed",
+      "value6": "Total distributions",
+      "title5": "5000 riyals"
+    },
+    "scheduleInfo": {
+      "title1": " Face value part",
+      "value1": "0 riyals",
+      "title2": " Periodic Distributions part",
+      "value2": "0 riyals",
+      "title3": "Distribution Status",
+      "value3": "Paid",
+      "title4": "Distribution size",
+      "value4": "100 riyals"
+    },
+    "title": "Distribution table"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "notificationList": {
+      "title1": "Investment Opportunity",
+      "body1": "An investment opportunity with an annual return of up to 8%"
+    }
+  },
+  "loginOtp": {
+    "message": "You're welcome,\nenter the access code",
+    "button": "Resend"
+  },
+  "messages": {
+    "reachedInvestmentLimit": "You reached investment limit per program of 20000",
+    "userIsUnderAge": "User is under age, only 18 years and above users are allowed"
+  },
+  "logout_modal": {
+    "yes": "Yes",
+    "message": "Do you want to logout ?",
+    "cancel": "Cancel"
+  }
+}
